@@ -1,11 +1,23 @@
 /* 1. exercice-baseline-1 */
-.exercice-baseline-1 {
+.exercice-baseline-1 .container-small {
   display: flex;
   align-items: baseline;
   flex-flow: row;
 }
 /* 2. exercice-baseline-2 */
+.exercice-baseline-2 .container-small .element-big {
+  display: flex;
+  align-items: baseline;
+  flex-flow: row-reverse;
+  justify-content: flex-start;
+}
 
+.exercice-baseline-2 .container-small .element-med {
+  display: flex;
+  align-items: baseline;
+  flex-flow: row-reverse;
+  justify-content: flex-start;
+}
 /* 3. exercice-baseline-3 */
 
 /* 4. exercice-flow-1 */
