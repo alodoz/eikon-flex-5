@@ -19,7 +19,12 @@
   justify-content: flex-start;
 }
 /* 3. exercice-baseline-3 */
-
+.exercice-baseline-3 .container-small {
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  align-items: center;
+}
 /* 4. exercice-flow-1 */
 
 /* 5. exercice-flow-2 */
