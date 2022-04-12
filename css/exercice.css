@@ -1,5 +1,9 @@
 /* 1. exercice-baseline-1 */
-
+.exercice-baseline-1 {
+  display: flex;
+  align-items: baseline;
+  flex-flow: row;
+}
 /* 2. exercice-baseline-2 */
 
 /* 3. exercice-baseline-3 */
